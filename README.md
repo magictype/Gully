@@ -1,7 +1,6 @@
 # Gully
 
-Geometric Latin Typeface
-Read more about it at [MagicType](https://www.magictype.in/portfolio/gully-typeface/)
+Geometric Latin Typeface. Read more about it at [MagicType](https://www.magictype.in/portfolio/gully-typeface/)
 
 ![gully_feature_name2](https://github.com/magictype/Gully/assets/9861917/b179c1b5-c9ed-4d57-9535-b937db3f2948)
 
